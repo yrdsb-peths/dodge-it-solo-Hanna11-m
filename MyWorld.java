@@ -11,6 +11,6 @@ public class MyWorld extends World {
         addObject(banana, 600, 100);
         
         Apple apple = new Apple();
-        addObject(apple, 600, 300);
+        addObject(apple, 300, 300);
     }
 }
