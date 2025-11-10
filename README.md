@@ -16,5 +16,11 @@
 # project.greenfoot
 Copy the `project.greenfoot.md` file and rename it to `project.greenfoot`
 
-# Learn Markdown Basics
-[Markdown basics](https://www.markdownguide.org/getting-started/)
+# ReadMe
+**Purpose**:
+
+This code was created for Mr.Chan's P5 ICS3U Intro to CS Class as an assignment.
+
+**How to Play**:
+
+The user can move the Hero up and down through clicking their mouse. The objective is to avoid crashing into the moving banana. If the hero does crash into the banana, a skull will appear, indicating that the game is over.
